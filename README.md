@@ -2,7 +2,7 @@
 
 This project includes some interesting neural networks used to solve different problems.  The implementation was done using the programming language R.
 
-### Scipts
+### Applications
 
 1. Perceptron
 2. Adaline
